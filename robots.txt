@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://visionary237.github.io/tidiane-road-to-la28/sitemap.xml
